@@ -1,0 +1,204 @@
+cd <directory_name>
+
+**Description:**  
+Moves the user into a different directory.
+
+---
+
+## **2. ls (List Files)**
+**Syntax:**  
+
+
+ls
+
+**Description:**  
+Displays all files and folders in the current directory.
+
+---
+
+## **3. pwd (Print Working Directory)**
+**Syntax:**  
+
+
+pwd
+
+**Description:**  
+Shows the complete path of the current working directory.
+
+---
+
+## **4. mkdir (Make Directory)**
+**Syntax:**  
+
+
+mkdir folder_name
+
+**Description:**  
+Creates a new directory.
+
+---
+
+## **5. rmdir (Remove Directory)**
+**Syntax:**  
+
+
+rmdir folder_name
+
+**Description:**  
+Deletes an empty directory.
+
+---
+
+## **6. mv (Move / Rename Files)**
+**Syntax:**  
+
+
+mv file.txt /path/
+
+**Description:**  
+Moves or renames a file or directory.
+
+---
+
+## **7. touch (Create File)**
+**Syntax:**  
+
+
+touch newfile.txt
+
+**Description:**  
+Creates a new empty file.
+
+---
+
+## **8. cp (Copy Files)**
+**Syntax:**  
+
+
+cp file1.txt file2.txt
+
+**Description:**  
+Copies a file or directory.
+
+---
+
+## **9. rm (Remove Files)**
+**Syntax:**  
+
+
+rm filename
+
+**Description:**  
+Deletes a file permanently.
+
+---
+
+## **10. chmod (Change File Permission)**
+**Syntax:**  
+
+
+chmod 755 file.txt
+
+**Description:**  
+Changes read, write, and execute permissions for user/group/others.
+
+---
+
+## **11. chown (Change File Owner)**
+**Syntax:**  
+
+
+chown user file.txt
+
+**Description:**  
+Changes the owner of a file or folder.
+
+---
+
+## **12. ln (Create Links)**
+**Syntax:**  
+
+
+ln -s target linkname
+
+**Description:**  
+Creates soft or hard links.
+
+---
+
+## **13. cat (Concatenate / View Files)**
+**Syntax:**  
+
+
+cat file.txt
+
+**Description:**  
+Displays the content of a file.
+
+---
+
+## **14. head (Show First Lines)**
+**Syntax:**  
+
+
+head file.txt
+
+**Description:**  
+Shows the first 10 lines of a file.
+
+---
+
+## **15. tail (Show Last Lines)**
+**Syntax:**  
+
+
+tail file.txt
+
+**Description:**  
+Shows the last 10 lines of a file.
+
+---
+
+## **16. more (Page-by-Page Viewer)**
+**Syntax:**  
+
+
+more file.txt
+
+**Description:**  
+Shows file content page by page.
+
+---
+
+## **17. less (Advanced File Viewer)**
+**Syntax:**  
+
+
+less file.txt
+
+**Description:**  
+Improved version of `more`, supports scrolling.
+
+---
+
+## **18. diff (Compare Files)**
+**Syntax:**  
+
+
+diff file1.txt file2.txt
+
+**Description:**  
+Compares two files line by line.
+
+---
+
+## **19. patch (Apply Patches)**
+**Syntax:**  
+
+
+patch file < changes.diff
+
+**Description:**  
+Applies updates from a patch file.
+
+---
